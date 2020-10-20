@@ -1,0 +1,352 @@
+[
+  {
+    "Name": "6\" jointer",
+    "Category": "planing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "20\" planer",
+    "Category": "planing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "12.5\" portable thickness planer",
+    "Category": "planing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "14\" bandsaw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "MiniMax S45 bandsaw 20\"?",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "10\" table saw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "12\" mitre saw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "11\" 15A sliding mitre saw with laser",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "jigsaw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "jigsaw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "jigsaw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "Mastercraft Hawkeye jigsaw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "8.25\" tracksaw",
+    "Category": "saws",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "palm sander",
+    "Category": "sanding",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "oscillating edge belt/spindle sander",
+    "Category": "sanding",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "1\" belt / 5\" disc sander",
+    "Category": "sanding",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "mini lathe - max 3.5\" x 9.75\"",
+    "Category": "turning",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "baseball bat lathe",
+    "Category": "turning",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "1.75HP router - fixed base",
+    "Category": "routing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "2.25HP router",
+    "Category": "routing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "2HP plunge router - 2\"",
+    "Category": "routing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "router table",
+    "Category": "routing",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "18 gauge nailer",
+    "Category": "air tools",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "1.25\" brad nailer / stapler",
+    "Category": "air tools",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "17\" drill press",
+    "Category": "drills",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "18V 1/2\" cordless driver",
+    "Category": "drills",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "18V hammer driver drill",
+    "Category": "drills",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "corded 1/4\" hex impact driver",
+    "Category": "drills",
+    "Domain": "woodshop"
+  },
+  {
+    "Name": "45W laser cutter",
+    "Category": "lasers",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "35W laser cutter",
+    "Category": "lasers",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "IIIP3 MP Select Mini 3D printer",
+    "Category": "3d printers",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "Robo",
+    "Category": "3d printers",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "resin printerr",
+    "Category": "3d printers",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "4 channel 50MHz oscilloscope",
+    "Category": "scopes",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "20MHz sweep/function generator",
+    "Category": "scopes",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "20MHz pulse/function generator",
+    "Category": "scopes",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "electric soldering iron",
+    "Category": "soldering irons",
+    "Domain": "electronics"
+  },
+  {
+    "Name": "PowerTIG 250EX",
+    "Category": "welding",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "Weld Pak 5000 HD",
+    "Category": "welding",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "AC225 arc welder",
+    "Category": "welding",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "Millermatic Challenger 172X",
+    "Category": "welding",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "7\" horizontal metal bandsaw",
+    "Category": "saws",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "Craftex metal lathe",
+    "Category": "machining",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "mill drill",
+    "Category": "machining",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "16.5\" Drill press",
+    "Category": "drills",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "hammer drill",
+    "Category": "drills",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "6\" thin line bench grinder",
+    "Category": "grinders",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "6\" bench grinder",
+    "Category": "grinders",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "heavy duty (8\"?) bench grinder",
+    "Category": "grinders",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "wet/dry sharpener",
+    "Category": "grinders",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "5\" angle grinder",
+    "Category": "grinders",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "4.5\" angle grinder",
+    "Category": "grinders",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "12\" bench shear",
+    "Category": "shears",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "3\" 1/1320x1.5 shear press brake & slip roll",
+    "Category": "shears",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "4\" belt / 6\" disc sander",
+    "Category": "grinding/sanding",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "4\" machine vice",
+    "Category": "vices",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "120mm bench vice",
+    "Category": "vices",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "12 ton hydrallic jack",
+    "Category": "jacks/benders/presses",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "2.5 ton pallet jack",
+    "Category": "jacks/benders/presses",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "16 ton pipe bender",
+    "Category": "jacks/benders/presses",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "ratchet arbor press",
+    "Category": "jacks/benders/presses",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "rolling mill (jewelry)",
+    "Category": "jacks/benders/presses",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "air impact wrench",
+    "Category": "pneumatic tools",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "18 gauge straight air shear",
+    "Category": "pneumatic tools",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "air hammer chisel",
+    "Category": "pneumatic tools",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "air square drive 3/8\"",
+    "Category": "pneumatic tools",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "air die grinder",
+    "Category": "pneumatic tools",
+    "Domain": "cold metal shop"
+  },
+  {
+    "Name": "oxy-actelyene welding rig",
+    "Category": "welding",
+    "Domain": "hot metal shed"
+  },
+  {
+    "Name": "oxy-actelyene 90 degree cutting head 6H",
+    "Category": "cutting",
+    "Domain": "hot metal shed"
+  },
+  {
+    "Name": "forced air propane forge",
+    "Category": "forging",
+    "Domain": "hot metal shed"
+  }
+]
